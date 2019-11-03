@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Radu",
+    "levelOfCompetence": 10,
+    "departamentName": "MARKETING",
+    "status": "AWAITING",
+    "gender": "MALE"
+  },
+  {
+    "name": "Ana",
+    "levelOfCompetence": 10,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Gelu",
+    "levelOfCompetence": 6,
+    "departamentName": "MARKETING",
+    "status": "AWAITING",
+    "gender": "MALE"
+  },
+  {
+    "name": "Ovidiu",
+    "levelOfCompetence": 7,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "MALE"
+  },
+  {
+    "name": "Cristina",
+    "levelOfCompetence": 8,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Elvira",
+    "levelOfCompetence": 9,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Marius",
+    "levelOfCompetence": 9,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "George",
+    "levelOfCompetence": 3,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Avram",
+    "levelOfCompetence": 9,
+    "departamentName": "PRODUCTION",
+    "status": "AWAITING",
+    "gender": "FEMALE"
+  }
+]

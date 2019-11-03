@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Radu",
+    "levelOfCompetence": 10,
+    "departamentName": "MARKETING",
+    "status": "ACCEPTED",
+    "gender": "MALE"
+  },
+  {
+    "name": "Gelu",
+    "levelOfCompetence": 6,
+    "departamentName": "MARKETING",
+    "status": "ACCEPTED",
+    "gender": "MALE"
+  }
+]

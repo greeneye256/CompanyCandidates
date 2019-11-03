@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ana",
+    "levelOfCompetence": 10,
+    "departamentName": "PRODUCTION",
+    "status": "ACCEPTED",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Elvira",
+    "levelOfCompetence": 9,
+    "departamentName": "PRODUCTION",
+    "status": "ACCEPTED",
+    "gender": "FEMALE"
+  },
+  {
+    "name": "Marius",
+    "levelOfCompetence": 9,
+    "departamentName": "PRODUCTION",
+    "status": "ACCEPTED",
+    "gender": "FEMALE"
+  }
+]
